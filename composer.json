@@ -9,7 +9,7 @@
         "firebase/php-jwt": "^6.7",
         "fruitcake/laravel-cors": "^2.0",
         "google/cloud-core": "^1.37.0",
-        "google/cloud-firestore": "0.14",
+        "google/cloud-firestore": "1.37.0",
         "google/gax": "0.37",
         "grpc/grpc": "^1.57",
         "guzzlehttp/guzzle": "^7.8",
