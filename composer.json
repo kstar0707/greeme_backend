@@ -11,6 +11,7 @@
         "google/cloud-core": "^1.37.0",
         "google/cloud-firestore": "1.37.0",
         "google/gax": "0.37",
+        "google/protobuf": "3.17",
         "grpc/grpc": "^1.57",
         "guzzlehttp/guzzle": "^7.8",
         "kreait/firebase-php": "^5.4",
