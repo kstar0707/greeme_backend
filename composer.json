@@ -27,7 +27,7 @@
         "laravel/sail": "^1.0.1",
         "mockery/mockery": "^1.4.4",
         "nunomaduro/collision": "^5.10",
-        "phpcompatibility/php-compatibility": "dev-develop",
+        "phpcompatibility/php-compatibility": "*",
         "phpcsstandards/phpcsutils": "1.0@dev",
         "phpunit/phpunit": "^9.5.10"
     },
